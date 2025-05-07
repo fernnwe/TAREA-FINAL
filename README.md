@@ -1,7 +1,7 @@
 Sistema de Gestión para Gimnasio
 Sistema de Gestión para Gimnasio es una aplicación de escritorio desarrollada en Java utilizando Swing para la interfaz gráfica. Este sistema permite registrar clientes, gestionar pagos, planes alimenticios y rutinas, todo con una interfaz fácil de usar. Además, cuenta con persistencia de datos utilizando archivos binarios, lo que permite que la información se mantenga entre sesiones.
 
-![alt text](<Logo.jpg>)
+![alt text](</src/Logo.jpg>)
 
 🌟 Características del Sistema
 Gestión de Clientes: Permite registrar clientes con datos como nombre, cédula, teléfono, correo y dirección.
