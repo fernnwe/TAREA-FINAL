@@ -75,3 +75,6 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 - Java Serialización
 - Guía de Git & GitHub
 
+- ![Imagen de WhatsApp 2025-05-26 a las 20 51 42_efca082a](https://github.com/user-attachments/assets/2df2e837-6cf1-4c46-be85-f88b4cbe5878)
+
+
