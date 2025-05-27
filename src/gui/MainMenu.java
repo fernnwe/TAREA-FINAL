@@ -6,7 +6,7 @@ import java.awt.*;
 
 public class MainMenu extends JFrame {
     public MainMenu() {
-        setTitle("Sistema de Gimnasio");
+        setTitle("SapeGym");
         setSize(400, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);

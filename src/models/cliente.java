@@ -33,6 +33,6 @@ public class cliente implements Serializable {
 
     @Override
     public String toString() {
-        return nombre + " - " + cedula;
+        return nombre + " - " + cedula + " - "+ telefono + " - " + correo + " - "+ direccion;
     }
 }
